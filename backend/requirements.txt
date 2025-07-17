@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+camelot-py[cv]
+python-multipart
+pandas
+openpyxl
+pypdfium2
+pdfminer-six
+opencv-python-headless 
